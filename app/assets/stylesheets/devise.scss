@@ -1,15 +1,15 @@
-.new_account {
+.form-auth {
   width: 100%;
   max-width: 330px;
   padding: 15px;
   margin: auto;
   margin-top: 60px;
 
-  .new_account .checkbox {
+  .checkbox {
     font-weight: 400;
   }
 
-  .new_account .form-control {
+  .form-control {
     position: relative;
     box-sizing: border-box;
     height: auto;
@@ -29,9 +29,5 @@
     margin-bottom: 10px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
-  }
-
-  .btn-block {
-    margin-bottom: 40px;
   }
 }
